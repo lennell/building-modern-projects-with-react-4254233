@@ -1,0 +1,18 @@
+[00:00:01.185] Server  LOG     ✓ Ready in 897ms
+[00:00:34.491] Browser WARN    Image with src "http://localhost:3000/vercel.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:05:42.076] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/sssckr/javadev/building-modern-projects-with-react-4254233/my-app-next/app'
+[00:05:42.083] Server  ERROR   ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir '/home/sssckr/javadev/building-modern-projects-with-react-4254233/my-app-next/app'
+[00:05:42.085] Server  ERROR   ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir '/home/sssckr/javadev/building-modern-projects-with-react-4254233/my-app-next/app'
+[00:05:42.100] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/sssckr/javadev/building-modern-projects-with-react-4254233/my-app-next/app'
+[00:05:42.102] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/sssckr/javadev/building-modern-projects-with-react-4254233/my-app-next/app'
+[00:05:42.112] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/sssckr/javadev/building-modern-projects-with-react-4254233/my-app-next/app'
+[00:05:42.114] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/sssckr/javadev/building-modern-projects-with-react-4254233/my-app-next/app'
+[00:05:42.122] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/sssckr/javadev/building-modern-projects-with-react-4254233/my-app-next/app'
+[00:05:42.124] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/sssckr/javadev/building-modern-projects-with-react-4254233/my-app-next/app'
+[00:05:42.135] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/sssckr/javadev/building-modern-projects-with-react-4254233/my-app-next/app'
+[00:05:42.138] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/sssckr/javadev/building-modern-projects-with-react-4254233/my-app-next/app'
+[00:05:42.141] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/sssckr/javadev/building-modern-projects-with-react-4254233/my-app-next/app'
+[00:05:42.143] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/sssckr/javadev/building-modern-projects-with-react-4254233/my-app-next/app'
+[00:05:42.151] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/sssckr/javadev/building-modern-projects-with-react-4254233/my-app-next/app'
+[00:05:42.153] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/home/sssckr/javadev/building-modern-projects-with-react-4254233/my-app-next/app'
+[00:05:42.262] Server  LOG     ✓ Compiled in 216ms
